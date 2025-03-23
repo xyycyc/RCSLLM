@@ -1,0 +1,132 @@
+{
+    "2024": {
+        "0": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "500": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "640": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        }
+    },
+    "2025": {
+        "0": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "500": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "640": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        }
+    },
+    "2026": {
+        "0": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "500": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "640": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        }
+    },
+    "2027": {
+        "0": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "500": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "640": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        }
+    },
+    "2028": {
+        "0": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "500": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        },
+        "640": {
+            "accuracy": 0.558252427184466,
+            "f1": 0.4148489195831804,
+            "precision": 0.7562772012052227,
+            "recall": 0.558252427184466,
+            "error": 1,
+            "invalid_predictions_count": 0
+        }
+    }
+}
